@@ -1,0 +1,1 @@
+This project was developed with JAVA and MySQL. A simple management system for Hospitals to improve their documentation pattern and improve their working process. Users: Doctor, Patient, Staffs ,Nurse. Md.
